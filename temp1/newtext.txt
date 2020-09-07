@@ -1,0 +1,10 @@
+total 20
+-rwxr-xr-x 1 rajka_000 197609 103 Jun 24 20:49 envpath.sh*
+drwxr-xr-x 1 rajka_000 197609   0 Jun 30 17:20 linux-content/
+-rw-r--r-- 1 rajka_000 197609   0 Jun 30 17:23 newtext.txt
+-rw-r--r-- 1 rajka_000 197609 172 Jun 21 00:21 out1.txt
+-rw-r--r-- 1 rajka_000 197609 172 Jun 22 00:05 out2.txt
+-rw-r--r-- 1 rajka_000 197609 172 Jun 20 22:52 output.txt
+drwxr-xr-x 1 rajka_000 197609   0 Jun 21 12:55 QuickLink/
+drwxr-xr-x 1 rajka_000 197609   0 Jun 23 13:50 temp/
+drwxr-xr-x 1 rajka_000 197609   0 Jun 23 14:40 temp1/

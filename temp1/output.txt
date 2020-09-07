@@ -1,0 +1,4 @@
+total 4
+drwxr-xr-x 1 rajka_000 197609 0 Jun 20 22:07 linux-content/
+-rw-r--r-- 1 rajka_000 197609 0 Jun 20 22:52 out.txt
+drwxr-xr-x 1 rajka_000 197609 0 Jun 20 10:02 temp/
